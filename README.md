@@ -4,3 +4,5 @@ this is for github  study demo.
 -branch-A
 
 --fix-B
+
+-feature-C
